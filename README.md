@@ -15,13 +15,13 @@ Proyek akhir kami merupakan implementasi model CNN menggunakan Raspberry Pi 4 un
 2. Berapa tingkat akurasi yang di dapat saat diterapkan pada metode CNN dalam mengklasifikasikan engagement pengguna?
 3. Bagaimana hasil Implementasi metode CNN dalam mengklasifikasikan engagement berbasis raspberry Pi?
 
-##Tujuan
+## Tujuan
 1. Mengidentifikasi hasil implementasi metode CNN dalam mengklasifikasikan engagement pengguna.
 2. Mengidentifikasi tingkat akurasi yang di dapat saat diterapkan pada metode CNN dalam mengklasifikasikan engagement pengguna.
 3. Mengidentifikasi hasil implementasi metode CNN dalam mengklasifikasikan engagement berbasis raspberry Pi.
 
-##Perancangan Alat
-![screenshot](gambar/Perancangan.png)
+## Perancangan Alat
+![auto-img](gambar/Perancangan.png)
 
 ## Dataset
 | Kelas Engagement  | Gambar |
