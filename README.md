@@ -21,7 +21,7 @@ Proyek akhir kami merupakan implementasi model CNN menggunakan Raspberry Pi 4 un
 3. Mengidentifikasi hasil implementasi metode CNN dalam mengklasifikasikan engagement berbasis raspberry Pi.
 
 ##Perancangan Alat
-![auto-img](gambar/Perancangan.png)
+![screenshot](gambar/Perancangan.png)
 
 ## Dataset
 | Kelas Engagement  | Gambar |
