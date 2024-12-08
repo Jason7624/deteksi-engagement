@@ -33,12 +33,12 @@ Berikut ini merupakan beberapa sample data dari dataset yang kelompok kami ambil
 | ![auto-img](dataset/Adimas_1_frame_0006.jpg) | 1 |
 | ![auto-img](dataset/Alvin_1_frame_0019.jpg) | 1 |
 | ![auto-img](dataset/Parama_1_frame_0030.jpg) | 1 |
-| ![auto-img](dataset/Dzaky_2_frame_0006.jpg) | 2 |
-| ![auto-img](dataset/Fathan_2_frame_0006.jpg) | 2 |
-| ![auto-img](dataset/Kiki_2_frame_0006.jpg) | 2 |
-| ![auto-img](dataset/Bagja_3_frame_0006.jpg) | 3 |
-| ![auto-img](dataset/Dana_3_frame_0006.jpg) | 3 |
-| ![auto-img](dataset/Jason_3_frame_0006.jpg) | 3 |
+| ![auto-img](dataset/Dzaky_2_frame_0016.jpg) | 2 |
+| ![auto-img](dataset/Fathan_2_frame_0029.jpg) | 2 |
+| ![auto-img](dataset/Kiki_2_frame_0010.jpg) | 2 |
+| ![auto-img](dataset/Bagja_3_frame_0023.jpg) | 3 |
+| ![auto-img](dataset/Dana_3_frame_0015.jpg) | 3 |
+| ![auto-img](dataset/Jason_3_frame_0037.jpg) | 3 |
 
 ## Evaluasi Model
 Berikut ini merupakan hasil dari evaluasi model yang kami buat
