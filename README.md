@@ -45,3 +45,10 @@ Berikut ini merupakan hasil dari evaluasi model yang kami buat
 ![auto-img](gambar/precision.png)
 ![auto-img](gambar/loss.png)
 ![auto-img](gambar/confusion-matriks.png)
+
+## Dokumentasi
+![auto-img](gambar/dokum1.png)
+![auto-img](gambar/dokum2.png)
+![auto-img](gambar/dokum3.png)
+![auto-img](gambar/dokum4.png)
+![auto-img](gambar/dokum5.png)
