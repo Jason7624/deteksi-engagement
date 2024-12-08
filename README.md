@@ -24,13 +24,24 @@ Proyek akhir kami merupakan implementasi model CNN menggunakan Raspberry Pi 4 un
 ![auto-img](gambar/Perancangan.png)
 
 ## Dataset
-| Kelas Engagement  | Gambar |
-| ----------------- | ------ |
-| 0 | ![auto-img](gambar/ghozy-0-1.jpg) |
-| 0 | ![auto-img](gambar/gitra-0-1.jpg) |
+Berikut ini merupakan beberapa sample data dari dataset yang kelompok kami ambil
+| Gambar | Kelas Engagement |
+| ------ | ---------------- |
+| ![auto-img](dataset/Ghozy_0_frame_0033.jpg) | 0 |
+| ![auto-img](dataset/Rafif_0_frame_0017.jpg) | 0 |
+| ![auto-img](dataset/Syauqi_0_frame_0049.jpg) | 0 |
+| ![auto-img](dataset/Adimas_1_frame_0006.jpg) | 1 |
+| ![auto-img](dataset/Alvin_1_frame_0019.jpg) | 1 |
+| ![auto-img](dataset/Parama_1_frame_0030.jpg) | 1 |
+| ![auto-img](dataset/Dzaky_2_frame_0006.jpg) | 2 |
+| ![auto-img](dataset/Fathan_2_frame_0006.jpg) | 2 |
+| ![auto-img](dataset/Kiki_2_frame_0006.jpg) | 2 |
+| ![auto-img](dataset/Bagja_3_frame_0006.jpg) | 3 |
+| ![auto-img](dataset/Dana_3_frame_0006.jpg) | 3 |
+| ![auto-img](dataset/Jason_3_frame_0006.jpg) | 3 |
 
 ## Evaluasi Model
 Berikut ini merupakan hasil dari evaluasi model yang kami buat
-![auto-img](gambar/precision.jpg)
-![auto-img](gambar/loss.jpg)
-![auto-img](gambar/confusion-matriks.jpg)
+![auto-img](gambar/precision.png)
+![auto-img](gambar/loss.png)
+![auto-img](gambar/confusion-matriks.png)
