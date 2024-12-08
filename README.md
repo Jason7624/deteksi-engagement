@@ -47,8 +47,9 @@ Berikut ini merupakan hasil dari evaluasi model yang kami buat
 ![auto-img](gambar/confusion-matriks.png)
 
 ## Dokumentasi
-![auto-img](gambar/dokum1.png)
-![auto-img](gambar/dokum2.png)
-![auto-img](gambar/dokum3.png)
-![auto-img](gambar/dokum4.png)
-![auto-img](gambar/dokum5.png)
+Berisi foto dokumentasi pengambilan dataset dan bagaimana sistem dirancang
+![auto-img](gambar/dokum1.jpg)
+![auto-img](gambar/dokum2.jpg)
+![auto-img](gambar/dokum3.jpg)
+![auto-img](gambar/dokum4.jpg)
+![auto-img](gambar/dokum5.jpg)
